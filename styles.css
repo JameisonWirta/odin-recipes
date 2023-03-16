@@ -1,0 +1,26 @@
+img{
+    height: 500px;
+    width: auto;
+    align-items: center;
+    border-radius: 25px;
+}
+
+.recipe_name{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+
+
+ul,ol{
+    display: inline-block;
+}
+
+li{
+    text-align: left;
+}
+
+*{
+    text-align: center;
+    background-color: burlywood;
+    color: black;
+}
