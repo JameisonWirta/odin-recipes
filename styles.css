@@ -23,4 +23,5 @@ li{
     text-align: center;
     background-color: burlywood;
     color: black;
+    box-sizing: border-box;
 }
